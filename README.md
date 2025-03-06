@@ -1,4 +1,4 @@
-# IITD-MNC 📚🧮
+# IITD-MNC 📚
 
 ## Welcome! 
 
@@ -33,12 +33,11 @@ git clone https://github.com/Mahesh-pareek/IITD-MNC
 - Explore semester folders(named like, 'spring'25' etc..) for current materials
 - Check the PYQ Archive for exam preparation
 
-## 🤝 Contribute 
+## 🤝How to Contribute 
 
 1. Fork the repository
 2. Add your study materials
 3. Submit a pull request
-4. Help make math learning accessible and fun!
 
 
 
